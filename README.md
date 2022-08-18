@@ -22,3 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to have fu
 1. [Install Docker](https://docs.docker.com/get-docker/) on your machine.
 2. Build your container: `docker build -t pyworkbook .`.
 3. Run your container: `docker run -p 3000:3000 pyworkbook`.
+
+## Key components used
+1. [Python interpreter by Pyodide based on WebAssembly](https://pyodide.org/en/stable/)
+2. [Code editor by Codemirror](https://codemirror.net)
+3. [React UI by Material UI](https://mui.com/)
+4. [Containerize by Docker](https://www.docker.com)
