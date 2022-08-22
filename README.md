@@ -7,6 +7,11 @@ Features:
 - Add / Remove cell of code
 - Execute each cell or entire workbook
 - Add javascript api for using in python: sample function fetch_json
+
+## Demo
+Write and run hello world code
+![Demo](/docs/demo.png?raw=true)
+
 ## Running localy
 First, run the development server:
 
